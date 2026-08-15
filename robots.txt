@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-uc66sz.leogaming.cfd/sitemap.xml
